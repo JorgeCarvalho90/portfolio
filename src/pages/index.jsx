@@ -5,9 +5,8 @@ export default function HomePage() {
   return (
     <>
         <main>
-          <section id="about">
-            <h1>About</h1>
-            <p>Some text here</p>
+          <section>
+            <h1>Jorge Carvalho</h1>
             </section>
         </main>
     </>
