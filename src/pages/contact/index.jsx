@@ -1,6 +1,6 @@
 import React from 'react'
 import { FaGithub, FaInstagram } from 'react-icons/fa'
-import "./Contact.css"
+import "./contact.css"
 
 export default function Contact() {
   return (
