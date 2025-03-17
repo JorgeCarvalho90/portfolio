@@ -16,17 +16,17 @@ export default function NavBar() {
     <nav className="nav-menu">  
         <a onClick={() =>{
                 handleNavigation("/")
-              }}>Home</a>
+              }}>HOME</a>
          <span 
           className="nav-menu-icon" 
           onClick={() => setShowMenu(!showMenu)}
         >
-          ☰ Menu
+          ☰ MENU
         </span>
         <ul className={`nav-menu-desktop ${showMenu ? 'open' : ''}`}>
-          <li><a onClick={() => handleNavigation("/about")}>About</a></li>
-          <li><a onClick={() => handleNavigation("/works")}>Works</a></li>
-          <li><a onClick={() => handleNavigation("/contact")}>Contact</a></li>
+          <li><a onClick={() => handleNavigation("/about")}>ABOUT</a></li>
+          <li><a onClick={() => handleNavigation("/works")}>WORKS</a></li>
+          <li><a onClick={() => handleNavigation("/contact")}>CONTACT</a></li>
         </ul>
     </nav>
   )

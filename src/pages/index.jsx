@@ -5,8 +5,9 @@ export default function HomePage() {
   return (
     <>
         <main>
-          <section>
-            <h1>Jorge Carvalho</h1>
+          <section className="container">
+            <p>Full Stack Developer</p>
+            <h1>JORGE CARVALHO</h1>
             </section>
         </main>
     </>

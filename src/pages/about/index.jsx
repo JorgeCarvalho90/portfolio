@@ -10,7 +10,7 @@ export default function About() {
                 alt="Jorge's profile picture"
             />
             <div className="about-content">
-                <h2><span className="wave">👋</span> Hello, I'm Jorge!</h2>
+                <h2> HELLO, I'M JORGE</h2>
                 <p>
                     With over 15 years of experience as a Radio Engineer, I have specialized in RAN support, fault recovery, and network optimization for Nokia, Huawei, and Ericsson equipment. Throughout my career, I have worked in demanding environments, providing expert technical support and ensuring the stability of critical networks.
                     <br /><br />
