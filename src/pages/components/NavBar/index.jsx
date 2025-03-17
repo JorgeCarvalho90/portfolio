@@ -1,6 +1,6 @@
 import React from 'react'
 import { useState } from 'react'
-import "./navBar.css"
+import "./NavBar.css"
 import {useNavigate } from 'react-router'
 
 export default function NavBar() {
